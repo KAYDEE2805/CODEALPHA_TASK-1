@@ -3,7 +3,7 @@ Basic Network Sniffer
 This project is developed as part of the CodeAlpha Intership Program.
 
 # Overview
-This project is created to practise sniffing.
+This project is created to practice sniffing.
 
 # Features
 Network Sniffing
